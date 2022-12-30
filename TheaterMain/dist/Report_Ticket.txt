@@ -1,0 +1,6 @@
+namemovie: Avatar 2
+time: 120
+cycle: 12:00-15:00
+room: R02
+seat: E9 C9 B9 
+price: 700.0 THB
